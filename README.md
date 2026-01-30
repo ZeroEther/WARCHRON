@@ -18,7 +18,7 @@ All planned gameplay modules are designed to support the dual-spectrum system:
 3. Search & Secure (Raid Mode): A high-stakes, survival-oriented loop of looting, combat, and timed extraction.
 4. Chronicles Campaign (Single-Player/Co-op): A narrative-driven series of operations that explore the world and mechanics of WARCHRON.
 
-🛠️ Technical Vision & Architecture
+Technical Vision & Architecture
 
 This repository will track the development of core systems, with a focus on:
 
@@ -52,5 +52,5 @@ To protect the integrity of the Game and the rights of its creators, the followi
 2. Extracting and Reusing Assets: Extracting any art, audio, models, or other resources from the Game for use in other projects, games, or commercial purposes is forbidden.
 3. Malicious Distribution: Distributing modified versions of the Game that contain malware, enable unauthorized private servers, or incorporate cheat programs is strictly prohibited.
 4. Commercial Exploitation: Using the Game, or any content derived from it, for any commercial purpose requires our prior, separate, and written authorization.
-5. 
+
 Let's write this chronicle together.
